@@ -3,6 +3,17 @@ layout: page
 title: About
 ---
 
+Welcome to my site/blog/whatever I want it to be!
+
+Testing this out and having some fun. 
+
+TODO -- Actually do sommething with this like
+
+* Add biosketch, 
+* Add a photo or two
+* Come up with some other ideas
+
+
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
