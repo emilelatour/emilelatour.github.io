@@ -1,10 +1,10 @@
 # Personalize your website info here
-title:            Anew Guy
-tagline:          'Professional Website for Anew Guy'
-description:      'Website and Blog for Anew Guy'
+title:            Emile Latour
+tagline:          'Fighting cancer with math'
+description:      'Website and Blog for Emile Latour, a biostatistician working in cancer research'
 url:              http://anewguy.github.io
 author:
-  name:           'Anew Guy'
+  name:           'Emile Latour'
   url:            https://twitter.com/anewguy
 
 ## You don't need to modify below this line
