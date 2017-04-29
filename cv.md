@@ -3,12 +3,13 @@ layout: page
 title: CV
 ---
 
-## Anew Guy
+## Emile Latour
 - http://yourwebsite.com
 - 123 Fake Street
-- Portland, OR 97213
-- 555-555-5555
-- your.email@address.com
+- Portland, OR 97209
+- 503-756-7119
+- latour@ohsu.edu
+- ejlatour@gmail.com
 
 ### Personal summary
 
